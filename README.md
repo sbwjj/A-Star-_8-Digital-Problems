@@ -1,2 +1,2 @@
-# A-Star-_8-Digital-Problems
+# A-Star_8-Digital-Problems
 It contains source code.
